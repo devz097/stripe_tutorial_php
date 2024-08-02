@@ -24,7 +24,8 @@ Create an `index.html` file with the following content:
 
     <script src="stripe-script.js"></script>
 </body>
-</html>```
+</html>
+```
 
 
 ## Step 2: Create the JavaScript File
