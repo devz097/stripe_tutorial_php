@@ -6,6 +6,7 @@ This guide covers the steps to integrate Stripe's drop-in UI and set up webhooks
 
 Create an `index.html` file with the following content:
 
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -23,7 +24,7 @@ Create an `index.html` file with the following content:
 
     <script src="stripe-script.js"></script>
 </body>
-</html>
+</html>```
 
 
 ## Step 2: Create the JavaScript File
