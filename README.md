@@ -6,7 +6,6 @@ This guide covers the steps to integrate Stripe's drop-in UI and set up webhooks
 
 Create an `index.html` file with the following content:
 
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,8 +25,13 @@ Create an `index.html` file with the following content:
 </body>
 </html>
 
+
 ## Step 2: Create the JavaScript File
+
 ## Step 3: Create the PHP File for Creating Payment Intent
+
 ## Step 4: Create the PHP File for Webhook
+
 ## Step 5: Install Stripe's PHP Library
+
 ## Step 6: Register the Webhook Endpoint
