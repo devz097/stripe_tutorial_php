@@ -25,7 +25,6 @@ Create an `index.html` file with the following content:
     <script src="stripe-script.js"></script>
 </body>
 </html>
-html```
 
 ## Step 2: Create the JavaScript File
 ## Step 3: Create the PHP File for Creating Payment Intent
